@@ -43,3 +43,57 @@ body{
     border-bottom: 2px solid #F2F2F2;
     color: #F2F2F2;
 }
+
+/* Section 2 */
+
+.card{
+    height: 452px;
+    background-color: transparent;
+    border: none;
+    color: white;
+    margin-left: 60px;
+    padding-bottom: 700px;
+}
+
+.image :hover{
+    border-radius: 100px;
+    border: 20px solid #F3C712; 
+    cursor: pointer;
+}
+
+.card-img-top{
+    width: auto;
+    height: 452px;
+    margin: auto;
+    transition: all .3s cubic-bezier(0.165, 0.84, 0.44, 1);
+}
+
+.btn{
+    background-color: #8C0325;
+    border: #8C0325 2px solid;
+}
+
+.btn-primary :hover{
+    background-color: #F3C712;
+    cursor: pointer;
+}
+
+.btn-group{
+    margin-top: 80px;
+
+}
+
+.btn-outline-primary{
+    background-color: transparent;
+    color: white;
+    border: 1px solid white;
+    border-radius: 30px;
+
+}
+
+template#tripTemplate {
+    display: none;
+}
+
+
+
