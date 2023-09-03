@@ -36,7 +36,7 @@
   That's it for my pages 
 
   ## Watch DEMO VIDEO HERE
-  
+
   https://youtu.be/9E09Z2EaIaQ
 
   ## GettingStarted 
@@ -70,7 +70,9 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 https://www.mit.edu/~amini/LICENSE.md
 
+## Plagirism Declaration 
 
+![PlagiarismDeclaration](/assets/plagarism-declaration.jpeg)
 
 
 
