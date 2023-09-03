@@ -1,0 +1,307 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Libre+Baskerville:wght@400;700&family=Yuji+Boku&display=swap');
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css");
+
+/* ---------------------------------------------------------------- */
+/* Global Styles */
+
+/* Fonts */
+
+p{
+    font-family: 'Inter', sans-serif;;
+    font-size: 24px;
+}
+
+/* Spacing */
+
+.full-height{
+    height: 100vh;
+}
+
+/* Bootstrap Component Overrides */
+
+
+/* Navigation */
+
+.nav-link {
+    font-family: 'Libre Baskervihttp://127.0.0.1:5501/assets/slide1-img.pnglle', serif;
+    color: #F2F2F2;
+    font-size: 16px;
+}
+
+.nav-link:hover {
+    color: #8C0325;
+}
+
+.nav-link.active {
+    border-bottom: 2px solid #F2F2F2;
+    color: #F2F2F2;
+}
+
+/* Text Under Carousel */
+
+
+.text-box{
+    width: 100%;
+    height: 363px;
+    background: #8C0325;
+    padding-top: 35px;
+    padding-left: 59px;
+    padding-right: 385px;
+   
+    color: white;
+}
+
+.text-box h1{
+    font-size: 48px;
+    padding-bottom: 30px;
+    
+}
+
+.text-box h1{
+    font-family: 'Libre Baskerville', serif;  
+}
+
+/* Section 2 */
+
+section{
+    
+    width: 1440px;
+    height: 1511px;
+    background-image: url(../assets/homebackdrop2.png);
+}
+
+.heading{
+    font-family: 'Libre Baskerville', serif; 
+    padding-top: 30px;
+    padding-left: 59px;
+    color: #F2F2F2;
+}
+
+.heading h1{
+    font-size: 96px;
+}
+
+
+/* Weather */
+
+
+.weather{
+    color: white;
+    font-family: 'Inter', sans-serif;
+    margin-left: 709px;
+    margin-top: -220px;
+;
+}
+
+.time{
+  
+    font-size: 50px;
+    padding-bottom: 20px;
+}
+
+.date{
+    font-size: 24px;
+
+    padding-left: 250px;
+    margin-top: -80px;
+    
+
+}
+
+.time-zone{
+    font-size: 24px;
+
+    padding-left: 250px;
+}
+
+.country{
+    margin-top: -30px;
+    font-size: 24px;
+
+    padding-bottom: 20px;
+    padding-left: 10px;
+} 
+
+.futureforecast{
+    padding-left: 10px; 
+}
+
+.temp{
+    font-size: 40px;
+}
+
+.main-icon{
+    padding-left: 150px;
+    margin-top: -90px;
+}
+
+.current-status{
+    font-size: 24px;
+    padding-left: 280px;
+    margin-top: -60px;
+    padding-bottom: 20px;
+}
+
+.w-icon{
+    inline-size: 60px;
+ 
+}
+ .weather-forecast-item2{
+    padding-left: 110px;
+    margin-top: -108px;
+
+ }
+
+ .weather-forecast-item3{
+    padding-left: 220px;
+    margin-top: -110px;
+
+ }
+
+ .weather-forecast-item4{
+    padding-left: 330px;
+    margin-top: -110px;
+
+ }
+
+ .weather-forecast-item5{
+    padding-left: 440px;
+    margin-top: -107px;
+
+ }
+
+ .weather-forecast-item6{
+    padding-left: 550px;
+    margin-top: -109px;
+
+ }
+
+
+/* Accodion*/
+
+.heading-2 h1{
+    font-family: Libre Baskerville;
+    font-size: 96px;
+    color: #F2F2F2;
+    padding-left: 59px;
+    padding-bottom: 40px;
+    margin-top: 190px;
+
+    
+}
+.accordion{
+    width: 759px;
+    height: 397px;
+    color: #FFF;
+    font-family: Libre Baskerville;
+    padding-left: 59px;
+ 
+}
+
+.accordion-button{
+    color: #FFF;
+    padding-left: 20px;
+
+}
+.accordion-item{
+    border: none;
+    background-color: transparent;
+    border-radius: 30px;
+    color: white;
+    
+}
+
+.accordion-button{
+   background-color: rgba(	230, 242, 	233,	0.3);
+}
+
+.accordion-body{
+    background-color: rgba(	207, 	226, 	243,	0.4);
+}
+
+.kitchen-spoons-icon{
+    padding-right: 20px;
+    inline-size: 60px;
+}
+
+.gym-dumbbell-icon{
+    padding-right: 20px;
+    inline-size: 60px;
+}
+
+.club-party-icon{
+    padding-right: 20px;
+    inline-size: 60px;
+}
+
+/* Footer */
+
+footer{
+   
+    width: 1440px;
+    height: 416px;
+    background: #8C0325;
+    color: #F2F2F2;
+}
+
+.footer-logo{
+    padding-left: 57px;
+    margin-top: 90px;
+    inline-size: 290px;
+
+}
+
+.footer-info{
+    margin-top: -150px;
+    
+}
+
+footer ul{
+    font-family: 'Libre Baskerville', serif;  
+    list-style: none;
+    
+}
+
+.list-1{
+
+    margin-left: 350px;
+    margin-top: -110px;
+    line-height: 34px;
+}
+
+.list-2{
+
+
+    margin-left: 510px;
+    margin-top: -187px;
+    line-height: 34px;
+
+}
+
+.list-3{
+
+
+    margin-left: 740px;
+    margin-top: -187px;
+    line-height: 34px;
+
+}
+
+.list-4{
+
+
+    margin-left: 910px;
+    margin-top: -120px;
+    line-height: 34px;
+
+}
+
+.copyright{
+    margin-left: 59px;
+    margin-top: 150px;
+}
+
+.socials{
+    margin-left: 1100px;
+    margin-top: -70px;
+}

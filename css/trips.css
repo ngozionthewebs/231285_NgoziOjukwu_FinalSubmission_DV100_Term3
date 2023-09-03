@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Libre+Baskerville:wght@400;700&family=Yuji+Boku&display=swap');
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css");
+
+/* ---------------------------------------------------------------- */
+/* Global Styles */
+
+/* Fonts */
+
+h2{
+    font-family: 'Yuji Boku', serif;
+    font-size: 64px;
+    color: white;
+
+
+}
+
+p{
+    font-family: 'Inter', sans-serif;
+
+}
+
+body{
+    width: 1440px;
+    height: 3799px;
+    background-image: url(../assets/trips-background.png);
+    background-position: center;
+    background-size: cover;
+}
+
+/* Navigation */
+
+.nav-link {
+    font-family: 'Libre Baskerville', serif;
+    color: #F2F2F2;
+    font-size: 13px;
+}
+
+.nav-link:hover {
+    color: #8C0325;
+}
+
+.nav-link.active {
+    border-bottom: 2px solid #F2F2F2;
+    color: #F2F2F2;
+}
